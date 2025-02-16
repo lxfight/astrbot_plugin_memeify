@@ -104,7 +104,7 @@ class Memeify(Star):
                 page = page
             )
         if result['code'] == 200:
-            if words not in self.max_page:
+            if words not in self.max_page and 'maxpage' in result:
                 self.max_page[words] = result['maxpage']
             image_url = random.choice(result['res'])
             self.logger.info(f"图片：{image_url}")
