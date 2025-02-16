@@ -1,0 +1,2 @@
+# astrbot_plugin_memeify
+一个AstrBot的插件，用于LLM回复表情包的实现
