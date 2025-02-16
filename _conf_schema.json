@@ -1,0 +1,21 @@
+{
+    "apihz_id":{
+        "description":"接口盒子用户ID",
+        "type":"string",
+        "hint":"这里需要填写注册接口盒子账户之后的用户ID",
+        "obvious_hint":true
+    },
+    "apihz_key":{
+        "description":"接口盒子用户KEY",
+        "type":"string",
+        "hint":"这里需要填写注册接口盒子账户之后的用户KEY",
+        "obvious_hint":true
+    },
+    "limit":{
+        "description":"限制返回的图片数量",
+        "type":"int",
+        "hint":"这里可以限制接口返回的图片数量，代码随机选择一个减少表情重复性，过大会引起问题",
+        "obvious_hint":true,
+        "default":10
+    }
+}
