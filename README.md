@@ -33,7 +33,8 @@
 - 表情包API服务由[apihz.cn](https://www.apihz.cn)独家提供。
 - 灵感来源[mccloud_meme_sender](https://github.com/MCYUNIDC/mccloud_meme_sender)。
 - AstrBot核心开发团队的技术支持
- 由于作者上网冲浪的时候发现了apihz.cn网站中的表情包API，`astrbot_plugin_meme_manager`项目中使用的是本地的表情，所以`astrbot_plugin_memeify`诞生了。
+  
+由于作者上网冲浪的时候发现了apihz.cn网站中的表情包API，`astrbot_plugin_meme_manager`项目中使用的是本地的表情，所以`astrbot_plugin_memeify`诞生了。
 
 **Star趋势**：  
 [![Star History Chart](https://api.star-history.com/svg?repos=lxfight/astrbot_plugin_memeify)](https://github.com/lxfight/astrbot_plugin_memeify)
